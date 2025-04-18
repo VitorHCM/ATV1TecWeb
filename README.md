@@ -13,7 +13,7 @@ Aluno: Vitor Hugo Campos Moura - 2312130182
     Ao clicar no botao "cadastrar", o item é adicionado à lista de itens.
     Caso queira remover o item adicionado, o botao "remover" ira retirar o item da lista
 
-# Execucao do projeto:
+# Execução do projeto:
 
     Abra a pasta pratica12/formulario_de_notas
     Abra o terminal no VsCode e digite o comando "npm run build"
